@@ -7,6 +7,7 @@
 ### Esse projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 ## 📥 Instalação
+´´bash
 
   Abra seu terminal no git bash e digite
 
@@ -15,7 +16,7 @@
   Instalando as dependências...
 
   Abra o arquivo no seu navegador
-
+´´
 
 ## 🛠 Ferramentas e tecnologias utilizadas
 
