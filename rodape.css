@@ -1,0 +1,63 @@
+footer {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+
+h5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#redes-sociais-direita {
+    margin-left: 15px;
+    text-align: left;
+}
+
+.pagamento-direita {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#pt1 {
+    text-align: left;
+    position: absolute 80px;
+    padding-left: 8px;
+}
+
+#pt3 {
+    text-align: right;
+}
+
+#termos {
+    text-align: center;
+    padding-top: 150px;
+}
+
+div {
+    text-align: right;
+}
+
+#div3 {
+    padding-left: 650px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#direitos {
+    margin-top: 150px;
+    margin-right: 200px;
+}
+
+#politica {
+    padding-top: 300px;
+}
+
+#termos1 {
+    display: flex;
+    justify-content: space-between;
+}
