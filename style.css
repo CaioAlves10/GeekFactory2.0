@@ -1,0 +1,110 @@
+/* todas as paginas */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #854CBF;
+}
+
+/* header */
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #111111;
+    height: 145px;
+}
+
+.centro-projeto{
+    margin-top: 8px;
+}
+
+div#center {
+    background-color: #111111;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu {
+    margin-top: 6px;
+    margin-left: 30px;
+}
+
+nav div.menu:first-child { 
+    margin-left: 0;
+} 
+
+div.pesquisa {
+    margin-top: 30px;
+}
+
+div.pesquisa input {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid rgba(225, 0, 92, 0.10);
+    outline: none;
+    font-size: 16px;
+}
+
+div.pesquisa i {
+    position:absolute;
+    margin: 13px;
+}
+
+div.pesquisa input.inputSearch {
+    padding-left: 40px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin-left: 2px;
+}
+
+#buttonBottom {
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div#logo {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+div#perfil {
+    display: flex;
+    flex-direction: column;
+    margin-top: 34px;
+    margin-right: 50px;
+    margin-bottom: 25px;
+}
+
+div#perfil img {
+    margin-right: 25px;
+}
+
+div#perfil a img {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+div#perfil a#login-sign-up {
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

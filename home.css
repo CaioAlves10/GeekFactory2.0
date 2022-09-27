@@ -1,0 +1,34 @@
+/* main */
+.banner{
+    margin-top: 100px;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    max-width: 1850px;
+}
+.fotoproduto{
+    max-width: 270px;
+}
+.productsHome1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+}
+.productsHome2{
+    margin-top: 30PX;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+    margin-bottom: 100px;
+}
+.productsHome{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p{
+    color: #F1F1F1;
+    text-align: center;
+}
+.produto{
+    border: solid;
+}
