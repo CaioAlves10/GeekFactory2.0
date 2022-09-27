@@ -7,8 +7,8 @@
 ### Esse projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 ## 📥 Instalação
-´´bash
 
+```bash
   Abra seu terminal no git bash e digite
 
   $ git clone https://github.com/Jessica-s-paiva/Loja-React.git
@@ -16,7 +16,7 @@
   Instalando as dependências...
 
   Abra o arquivo no seu navegador
-´´
+```
 
 ## 🛠 Ferramentas e tecnologias utilizadas
 
