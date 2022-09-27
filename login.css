@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #854CBF;
+}
+#forms{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 150px;
+    font-family: monospace;
+    font-size: 20px;
+    margin-bottom: 110px;
+    color: black;
+}
+.tituloformC{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.tituloformL{
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom: 90px;
+}
+.cadastro{
+    padding: 55px ;
+    background-color:white;
+    border-radius: 40px;
+    margin-left: 170px;
+}
+.login{
+    padding: 55px ;
+    background-color:white;
+    border-radius: 40px;
+    margin-right: 170px;
+}
+.buttonC{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 60px;
+    margin-left: 10px;
+    width: 150px;
+}
+.buttonL{
+    margin-top: 80px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 60px;
+    margin-left: 10px;
+    width: 150px;
+}
+.oi{
+    color: black;
+}
