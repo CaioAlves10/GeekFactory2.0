@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #854CBF;
+}
+
+p {
+    text-align: center;
+    color: #F1F1F1;
+    background-color: rgb(85, 107, 100);
+    display: flex;
+    font-size: 40px;
+    padding: 36px;
+    margin: 70px;
+}
+
+#sobre2 {
+    border: none;
+    color: #F1F1F1;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 50px;
+    background-color: rgb(166, 104, 224);
+}
+
+#Button {
+    text-align: center;
+}
+#texto-sobre {
+    background-color: rgb(154, 99, 206);
+    padding: 50px;
+    margin: 50px;
+}
