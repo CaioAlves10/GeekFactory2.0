@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #854CBF;
+}
+.faleconosco{
+    margin-top: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding: 55px ;
+    background-color:white;
+    border-radius: 40px;
+
+}
+.input{
+    width: 500px;
+}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #F1F1F1;
+    margin-top: 100px;
+    margin-left: 20%;
+}
+.buttonE{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 60px;
+    width: 150px;
+}
+.oi{
+    color: black;
+    margin-right: 1400px;
+}
